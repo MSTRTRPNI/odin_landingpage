@@ -58,8 +58,8 @@ a {
 }
 .imgbox {
     background-color: #6D747D;
-    height: 200px;
-    width: 400px;
+    height: 250px;
+    width: 500px;
     position: relative;
     left: 750px;
     bottom: 90px;
@@ -69,13 +69,19 @@ a {
     color: #e5e7eb;
     font-size: 18px;
     position: relative;
-    top: 90px;
+    top: 110px;
+}
+.middleone {
+    background-color: #f9faf8;
+    height: 450px;
 }
 .bodytxt {
     color: #1f2937;
     font-size: 36px;
     font-weight: 900;
     text-align: center;
+    position: relative;
+    top: 25px;
 }
 .boxlist {
     list-style: none;
@@ -88,6 +94,93 @@ a {
     height: 150px;
     width: 150px;
     position: relative;
-    left: 85px;
-    top: 35px;
+    left: 330px;
+    top: 65px;
+    margin-left: -80px;
+}
+ul > p {
+    color: #1f2937;
+    font-size: 18px;
+    position: relative;
+    left: 180px;
+    top: 235px;
+}
+.middlequote {
+    background-color: #e5e7eb;
+    text-align: center;
+    height: 450px;
+}
+blockquote {
+    color: #1f2937;
+    font-size: 36px;
+    font-style: italic;
+    position: relative;
+    top: 120px;
+}
+cite {
+    color: #1f2937;
+    font-size: 28px;
+    font-weight: bold;
+    position: relative;
+    left: 320px;
+    top: 120px;
+}
+.calltoaction {
+    background-color: #f9faf8;
+    height: 250px;
+}
+.bluebox {
+    background-color: #3882f6;
+    height: 140px;
+    width: 1000px;
+    position: relative;
+    top: 66px;
+    left: 120px;
+    border: none;
+    border-radius: 20px;
+}
+.itstime {
+    color: #f9faf8;
+    font-size: 24px;
+    font-weight: bold;
+    position: relative;
+    top: 36px;
+    left: 100px;
+}
+.presssignup {
+    color: #f9faf8;
+    font-size: 18px;
+    position: relative;
+    top: 46px;
+    left: 100px;
+}
+.signuptwo {
+    background-color: #3882f6;
+    color: #f9faf8;
+    font-size: 18px;
+    font-weight: bold;
+    border: 2px solid #f9faf8;
+    border-radius: 8px;
+    height: 40px;
+    width: 150px;
+    position: relative;
+    top: 3px;
+    left: 750px;
+}
+.bottompart {
+    background-color: #1f2937;
+    height: 100px;
+    text-align: center;
+}
+.cpyrght {
+    color: #f9faf8;
+    font-size: 18px;
+    position: relative;
+    top: 30px;
+}
+.odinsite {
+    color: #f9faf8;
+    text-decoration: none;
+    position: relative;
+    top: 30px;
 }
